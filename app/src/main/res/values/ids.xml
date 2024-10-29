@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="brandEditText" type="id" />
+    <item name="sizeEditText" type="id" />
+    <item name="priceEditText" type="id" />
+    <item name="inStockSwitch" type="id" />
+    <item name="brand" type="id" />
+    <item name="size" type="id" />
+    <item name="price" type="id" />
+    <item name="shoeListView" type="id" />
+    <item name="content" type="id" />
+</resources>
